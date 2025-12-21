@@ -4,6 +4,9 @@
 
 Bienvenue sur le dépôt officiel du projet **Homo Cryptographicus**. Ce répertoire constitue le pont entre la théorie pure, le récit d'anticipation et la preuve par le code. Il vise à transformer l'individu de "sujet passif" en "instance souveraine".
 
+**Version 1.0 — December 2025**   
+*Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*
+![Sufficiency Protocol](https://github.com/pascalranaora/sufficiency-protocol/blob/main/SustainableBitcoin.png)
 ---
 
 ## 📚 Contenu du Dépôt
