@@ -11,7 +11,7 @@ Bienvenue sur le dépôt officiel du projet **Homo Cryptographicus**. Ce répert
 
 ## 📚 Contenu du Dépôt
 
-### 1. [Livre] Homo Cryptographicus (PDF)
+### 1. [Livre] [Homo Cryptographicus](https://tinyurl.com/homocryptographicus) (PDF)
 Le manuscrit complet structuré en 12 chapitres. Une exploration profonde de la **Physique Numérique**, de l'**Individu Souverain** et de la **Société Modulaire**. Il pose les bases de l'Informatique Ontologique.
 
 ### 2. [Simulation] Le Noyau (The Kernel)
@@ -24,8 +24,8 @@ Une implémentation fonctionnelle en C++ démontrant les piliers du livre :
 Le versant narratif (Hard SF) qui simule l'application de ces théories dans un futur proche. Découvrez la lutte pour le "Protocole de Confiance" dans un monde dominé par les alliages à haute entropie et la suprématie quantique.
 
 ### 4. [Articles Scientifiques] (PDFs)
-* **Densité Thermodynamique de l'Information Numérique : L'Indice Oméga (Ω) et l'Ancrage de la Vérité par OpenTimestamps** -- 16 janvier 2026
-* **Le Mécanisme de Higgs-Nakamoto : Brisure Spontanée de la Symétrie des Difféomorphismes Temporels dans les Théories des Champs sur Réseau Dissipatifs** -- 20 janvier 2026
+* **[Densité Thermodynamique de l'Information Numérique : L'Indice Oméga (Ω) et l'Ancrage de la Vérité par OpenTimestamps](https://tinyurl.com/densiteinformation)** -- 16 janvier 2026
+* **[Le Mécanisme de Higgs-Nakamoto : Brisure Spontanée de la Symétrie des Difféomorphismes Temporels dans les Théories des Champs sur Réseau Dissipatifs](https://tinyurl.com/HiggsNakamoto)** -- 20 janvier 2026
 
 #### L'authenticité temporel des différents documents est auditable via https://opentimestamps.org/. Télécharger les fichiers pdf et preuves temporelles OTS et les glisser sur le site pour attester quand (à quel bloc de la timechain Bitcoin) les documents ont été écrits.
 ---
